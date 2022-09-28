@@ -9,5 +9,5 @@ type Rectangle struct {
 }
 
 type Shape interface {
-	area() float64
+	Area() float64
 }
